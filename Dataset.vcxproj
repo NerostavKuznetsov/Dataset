@@ -123,9 +123,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include=".gitattributes" />
+    <None Include=".gitignore" />
+    <None Include="README.md" />
     <None Include="regressaolinear.py" />
     <None Include="RegressãoLogistica.py" />
     <None Include="synthetic_fraud_dataset (1).csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LICENSE.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -18,5 +18,11 @@
     <None Include="regressaolinear.py" />
     <None Include="RegressãoLogistica.py" />
     <None Include="synthetic_fraud_dataset (1).csv" />
+    <None Include="README.md" />
+    <None Include=".gitignore" />
+    <None Include=".gitattributes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LICENSE.txt" />
   </ItemGroup>
 </Project>
